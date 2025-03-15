@@ -1,10 +1,14 @@
-## Hi, I'm Aleksandr 👋
+## Hey, welcome to my GitHub! 👋
 
-I’m a Technical Project Manager and Staff Software Engineer specializing in **cybersecurity**, **machine learning**, and **data privacy**. I lead projects tackling complex technical challenges and stay hands-on with development.
+I'm here because I’m hooked on making things better -- better code, better tools, better outcomes for whoever's using them.
+It's why I sit down to write a single line. I'm at my happiest building stuff from nothing -- new projects, new fixes, you name it.
 
-I’m passionate about exploring emerging trends in ML and cybersecurity, always adapting and evolving my skills as technology advances.
+I'm stubborn in the best way. I keep at it until the _code is tight_ and _the solution clicks_.
+And I'm all about coding for a reason—real problems, real impact.
 
-Feel free to connect if you have exciting ideas or projects!
+What's here? You'll see mostly my experiments with various tools and code for Kaggle competitions.
+
+If you’re into refining code, teaming up 🤝, and learning as we go -- hit me up. Let’s build something awesome together.
 
 <!--
 **budivoy/budivoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
