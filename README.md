@@ -1,14 +1,11 @@
 ## Hey, welcome to my GitHub! 👋
 
-I'm here because I’m hooked on making things better -- better code, better tools, better outcomes for whoever's using them.
-It's why I sit down to write a single line. I'm at my happiest building stuff from nothing -- new projects, new fixes, you name it.
-
-I'm stubborn in the best way. I keep at it until the _code is tight_ and _the solution clicks_.
-And I'm all about coding for a reason—real problems, real impact.
+Here to make things better -- building from scratch, fixing what's broken, and making sure it actually works.
+I lead teams on research and software projects, mostly in machine learning and cybersecurity.
 
 What's here? You'll see mostly my experiments with various tools and code for Kaggle competitions.
 
-If you’re into refining code, teaming up 🤝, and learning as we go -- hit me up. Let’s build something awesome together.
+If you're into swapping ideas, teaming up, and learning while we could build -- let's connect and build something awesome together.
 
 <!--
 **budivoy/budivoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
