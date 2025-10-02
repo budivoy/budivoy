@@ -1,11 +1,9 @@
 ## Hey, welcome to my GitHub! 👋
 
 Here to make things better -- building from scratch, fixing what's broken, and making sure it actually works.
-I lead teams on research and software projects, mostly in machine learning and cybersecurity.
+I lead teams on R&D projects, mostly in machine learning and cybersecurity.
 
 What's here? You'll see mostly my experiments with various tools and code for Kaggle competitions.
-
-If you're into swapping ideas, teaming up, and learning while we could build -- let's connect and build something awesome together.
 
 <!--
 **budivoy/budivoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
