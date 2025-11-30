@@ -3,7 +3,11 @@
 Here to make things better -- building from scratch, fixing what's broken, and making sure it actually works.
 I lead teams on R&D projects, mostly in machine learning and cybersecurity.
 
-What's here? You'll see mostly my experiments with various tools and code for Kaggle competitions.
+What's here? You'll see mostly my experiments where GitHub is the only way to contribute / store / sync code.
+
+All upstream is moved to Codeberg (https://codeberg.org/budivoy).
+
+🌱
 
 <!--
 **budivoy/budivoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
